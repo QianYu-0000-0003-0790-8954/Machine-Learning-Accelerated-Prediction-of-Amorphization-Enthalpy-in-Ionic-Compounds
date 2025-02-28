@@ -16,14 +16,19 @@ pip install -r requirements.txt
 The repository is organized as follows:
 
 #### ./checkpoints/
-**finetune**: Contains the fine-tuned models used in this study.
-**pretrain**: Contains the pretrained models used in this study.
-./dataset/
-**feature.csv**: The features used during the pretraining stage.
-**finetune_input.csv**: The features used during the fine-tuning stage.
-**cifs**/: A directory containing CIF files for each material used in both pretraining and fine-tuning. Each CIF file is named according to the material ID.
+**finetune**: Contains the fine-tuned models used in this study.  
+**pretrain**: Contains the pretrained models used in this study.  
+
+#### ./dataset/
+**feature.csv**: The features used during the pretraining stage.  
+**finetune_input.csv**: The features used during the fine-tuning stage.  
+**dft_enthalpy.csv**: The amorphization enthalpy data evaluated by DFT method.  
+**GNN_enthalpy.csv**: The amorphization enthalpy data evaluated by GNN method.  
+**cifs.tar.xz**/: A compassed folder containing CIF files for each material used in both pretraining and fine-tuning. Each CIF file is named according to the material ID.  
+
 #### ./scripts/
 Scripts for pretraining and fine-tuning the models.
+
 #### ./utils/
 Utility functions for pretraining and fine-tuning.
 
