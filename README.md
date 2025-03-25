@@ -48,9 +48,11 @@ python scripts/finetune.py
 
 ## Usage
 If you use this code in your research, please cite the following article:  
-
-Yu, Q.; Sun, G.; Luo, W. Machine Learning Accelerated Prediction of Amorphization Enthalpy in Ionic Compounds. ACS Mater. Lett. 2025, 7, 1496–1502. 
+  
+Yu, Q.; Sun, G.; Luo, W. Machine Learning Accelerated Prediction of Amorphization Enthalpy in Ionic Compounds. ACS Mater. Lett. 2025, 7, 1496–1502.  
+  
 Gong, S.; Yan, K.; Xie, T.; Shao-Horn, Y.; Gomez-Bombarelli, R.; Ji, S.; Grossman, J. C. Examining graph neural networks for crystal structures: Limitations and opportunities for capturing periodicity. Sci.
 Adv. 2023, 9, No. eadi3245.  
+  
 Geiger, M.; Smidt, T.e3nn: Euclidean neural networks. arXiv, July 18, 2022, ver. 1. DOI: 10.48550/arXiv.2207.09453  
 
