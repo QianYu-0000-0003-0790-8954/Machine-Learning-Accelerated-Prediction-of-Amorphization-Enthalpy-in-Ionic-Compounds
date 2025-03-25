@@ -48,4 +48,4 @@ python scripts/finetune.py
 
 ## Usage
 If you use this code in your research, please cite the corresponding publication.
-Yu, Q., Sun, G., & Luo, W. (2025). Machine Learning-Accelerated Prediction of Amorphization Enthalpy in Ionic Compounds. ACS Materials Letters, 1496–1502. https://doi.org/10.1021/acsmaterialslett.5c00066
+```Yu, Q., Sun, G., & Luo, W. (2025). Machine Learning-Accelerated Prediction of Amorphization Enthalpy in Ionic Compounds. ACS Materials Letters, 1496–1502. https://doi.org/10.1021/acsmaterialslett.5c00066
